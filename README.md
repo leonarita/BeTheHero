@@ -2,6 +2,7 @@
 
 <br>
 <img src="/frontend/src/assets/logo.svg">
+<br>
 
 ## Projeto desenvolvido no evento OmniStack 11.0 fornecido pela empresa RocketSeat.
 
@@ -9,21 +10,26 @@ Nessa semana, foi desenvolvido uma aplicação full stack integrando backend (co
 
 <br>
 <img src="/Backend/uploads/foto1.png">
+<br>
 
-### Backend
+### 1. Backend
 
 Para o backend, foram utilizadas ferramentas como express, knex, SQLite3, cors e celebrate. Foram feitas as models, controllers, validação de dados, conexão com banco de dados e criação das rotas.
 
-### Frontend
+<br>
+
+### 2. Frontend
 
 Para o frontend, foram utilizadas ferramentas como axios, react-icons e react-router-dom. Possui quatros telas: a tela inicial, a tela de cadastro de ONG (para login), a tela de cadastro de casos e a tela de manutenção de casos.
 
 <br>
 <img src="/Backend/uploads/foto2.png">
+<br>
 
-### Mobile
+### 3. Mobile
 
 Para o mobile, foram utilizadas ferramentas como axios e expo-mail-composer. Possui duas telas: a tela inicial de listagem de casos e a tela de detalhes de um caso específico.
 
 <br>
 <img src="/Backend/uploads/foto3.png">
+<br>
