@@ -26,6 +26,7 @@ Foram feitas as models, controllers, validação de dados, conexão com banco de
 
 Para o frontend, foram utilizadas ferramentas como `axios`, `react-icons` e `react-router-dom`. 
 <br>
+<br>
 Possui quatros telas: a tela inicial, a tela de cadastro de ONG (para login), a tela de cadastro de casos e a tela de manutenção de casos.
 
 <br>
