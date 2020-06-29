@@ -18,7 +18,13 @@ A linguagem de programação utilizada foi o **`Javascript`**.
 
 Para o backend, foram utilizadas ferramentas como `express`, `knex`, `SQLite3`, `cors` e `celebrate`. 
 <br>
-Foram feitas as models, controllers, validação de dados, conexão com banco de dados e criação das rotas.
+<br>
+Foram feitas as seguintes funcionalidades:
+  1. Models;
+  2. Controllers;
+  3. Conexão com banco de dados;
+  4. Criação das rotas;
+  5. Validação de dados.
 
 <br>
 
@@ -27,7 +33,11 @@ Foram feitas as models, controllers, validação de dados, conexão com banco de
 Para o frontend, foram utilizadas ferramentas como `axios`, `react-icons` e `react-router-dom`. 
 <br>
 <br>
-Possui quatros telas: a tela inicial, a tela de cadastro de ONG (para login), a tela de cadastro de casos e a tela de manutenção de casos.
+Possui quatros telas: 
+  1. Tela inicial;
+  2. Tela de cadastro de ONG (para login);
+  3. Tela de cadastro de casos;
+  4. Tela de manutenção de casos.
 
 <br>
 <img src="/Backend/uploads/foto2.png">
@@ -39,7 +49,10 @@ Foi utilizando o React-Native com o `Expo` para a criação da aplicação mobil
 <br>
 Para o mobile, foram utilizadas ferramentas como `axios` e `expo-mail-composer`. 
 <br>
-Possui duas telas: a tela inicial de listagem de casos e a tela de detalhes de um caso específico.
+<br>
+Possui duas telas: 
+  1. Tela inicial de listagem de casos;
+  2. Tela de detalhes de um caso específico.
 
 <br>
 <img src="/Backend/uploads/foto3.png">
