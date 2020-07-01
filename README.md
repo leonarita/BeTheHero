@@ -12,7 +12,7 @@ Nessa semana, foi desenvolvido uma aplicação full stack integrando backend (co
 A linguagem de programação utilizada foi o **`Javascript`**.
 
 <br>
-<img src="/Backend/uploads/foto1.png">
+<img src="/uploads/foto1.png">
 <br>
 
 ### 1. Backend
@@ -41,7 +41,7 @@ Possui quatros telas:
   4. Tela de manutenção de casos.
 
 <br>
-<img src="/Backend/uploads/foto2.png">
+<img src="/uploads/foto2.png">
 <br>
 
 ### 3. Mobile
@@ -56,5 +56,5 @@ Possui duas telas:
   2. Tela de detalhes de um caso específico.
 
 <br>
-<img src="/Backend/uploads/foto3.png">
+<img src="/uploads/foto3.png">
 <br>
