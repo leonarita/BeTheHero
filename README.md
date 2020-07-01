@@ -10,6 +10,9 @@ Nessa semana, foi desenvolvido uma aplicação full stack integrando backend (co
 <br>
 <br>
 A linguagem de programação utilizada foi o **`Javascript`**.
+<br>
+<br>
+Esse projeto visa auxiliar casos inaceitáveis perante a sociedade, cadastrando-os e possibilitando que usuários comunique-se e contribua para fazer o bem-social.
 
 <br>
 <img src="/uploads/foto1.png">
